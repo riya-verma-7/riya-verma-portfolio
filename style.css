@@ -396,8 +396,7 @@ section .title::after {
 }
 
 .services .serv-content .card:hover {
-    background: linear-gradient(#21dbf3, #74d2f7, #9049c0, #7a54e2);
-    ;
+    background: linear-gradient(rgb(95, 165, 211), rgb(107, 107, 196));
 }
 
 .services .serv-content .card .box {
